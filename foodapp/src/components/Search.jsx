@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./search.module.css";
 
+
 const API_KEY = import.meta.env.VITE_REACT_APP_API_KEY;
 const URL = import.meta.env.VITE_REACT_APP_API_URL;
 
